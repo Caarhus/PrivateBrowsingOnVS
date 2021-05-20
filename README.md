@@ -1,8 +1,6 @@
 # PrivateBrowsingOnVS
 The arguments required to browse privately / incognito in Visual Studio for a wide selection of internet browsers.
 
-# Sample Browser Configurations
-
 ## Chrome
 Program:
 * "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"
